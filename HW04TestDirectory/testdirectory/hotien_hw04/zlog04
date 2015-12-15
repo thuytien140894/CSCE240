@@ -1,0 +1,28 @@
+Main: Beginning execution
+Main: infile '../../zinput04'
+Main: outfile 'zout04'
+Main: logfile 'zlog04'
+Traversal: enter initialize
+Traversal: leave initialize
+Traversal: enter toString
+Traversal: leave toString
+Traversal: enter traverse
+Traversal: enter traverseInner    0    0 F:     1    2    6    9
+Traversal: enter traverseInner    1    1 F:
+Traversal: enter traverseInner    2    4 F:     3    4    5
+Traversal: enter traverseInner    3    9 F:
+Traversal: enter traverseInner    4   16 F:
+Traversal: enter traverseInner    5   25 F:
+Traversal: leave traverseInner
+Traversal: enter traverseInner    6   36 F:     7    8
+Traversal: enter traverseInner    7   49 F:
+Traversal: enter traverseInner    8   64 F:
+Traversal: leave traverseInner
+Traversal: enter traverseInner    9   81 F:    10   11   12
+Traversal: enter traverseInner   10  100 F:
+Traversal: enter traverseInner   11  121 F:
+Traversal: enter traverseInner   12  144 F:
+Traversal: leave traverseInner
+Traversal: leave traverseInner
+Traversal: leave traverse
+Main: Ending execution

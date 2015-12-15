@@ -1,0 +1,58 @@
+Main: Beginning execution
+Main: infile 'xinfile.txt'
+Main: outfile 'xoutput.txt'
+Main: logfile 'xlog.txt'
+Traversal: enter initialize
+Traversal: leave initialize
+Traversal: enter toString
+Traversal: leave toString
+Traversal: enter traverse
+Traversal: enter traverseInner   0   0 F:    1   2   6   9
+    Traversal: enter traverseInner   1   1 F: 
+    Traversal: return payoff value 1
+    Traversal: leave traverseInner
+Traversal: payoff updated to 1
+    Traversal: enter traverseInner   2   4 F:    3   4   5
+        Traversal: enter traverseInner   3   9 F: 
+        Traversal: return payoff value 9
+        Traversal: leave traverseInner
+    Traversal: payoff updated to 9
+        Traversal: enter traverseInner   4  16 F: 
+        Traversal: return payoff value 16
+        Traversal: leave traverseInner
+    Traversal: payoff updated to 25
+        Traversal: enter traverseInner   5  25 F: 
+        Traversal: return payoff value 25
+        Traversal: leave traverseInner
+    Traversal: payoff updated to 50
+    Traversal: leave traverseInner
+Traversal: payoff updated to 51
+    Traversal: enter traverseInner   6  36 F:    7   8
+        Traversal: enter traverseInner   7  49 F: 
+        Traversal: return payoff value 49
+        Traversal: leave traverseInner
+    Traversal: payoff updated to 49
+        Traversal: enter traverseInner   8  64 F: 
+        Traversal: return payoff value 64
+        Traversal: leave traverseInner
+    Traversal: payoff updated to 113
+    Traversal: leave traverseInner
+Traversal: payoff updated to 164
+    Traversal: enter traverseInner   9  81 F:   10  11  12
+        Traversal: enter traverseInner  10 100 F: 
+        Traversal: return payoff value 100
+        Traversal: leave traverseInner
+    Traversal: payoff updated to 100
+        Traversal: enter traverseInner  11 121 F: 
+        Traversal: return payoff value 121
+        Traversal: leave traverseInner
+    Traversal: payoff updated to 221
+        Traversal: enter traverseInner  12 144 F: 
+        Traversal: return payoff value 144
+        Traversal: leave traverseInner
+    Traversal: payoff updated to 365
+    Traversal: leave traverseInner
+Traversal: payoff updated to 529
+Traversal: leave traverseInner
+Traversal: leave traverse
+Main: Ending execution

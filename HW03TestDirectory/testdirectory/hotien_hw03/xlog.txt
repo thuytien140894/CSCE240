@@ -1,0 +1,5 @@
+Beginning execution
+datafile  'xinfile.txt'
+outfile 'xoutput.txt'
+logfile 'xlog.txt'
+Ending execution

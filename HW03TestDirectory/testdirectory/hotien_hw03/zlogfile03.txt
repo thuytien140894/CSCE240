@@ -1,0 +1,5 @@
+Beginning execution
+datafile  'xinfile.txt'
+outfile 'zoutfile03.txt'
+logfile 'zlogfile03.txt'
+Ending execution

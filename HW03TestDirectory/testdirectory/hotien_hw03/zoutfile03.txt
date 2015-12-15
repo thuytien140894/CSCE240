@@ -1,0 +1,33 @@
+RAW DATA
+Record   0: Duncan Buell 789.0123
+
+Record   1: Duncan A. Buell 123.4567
+
+Record   2: Adam Swieszek 666.7777
+
+Record   3: George Herbert Walker Bush 555.2000
+
+
+
+BY NAME
+Record   0: Duncan Buell 789.0123
+
+Record   1: Duncan A. Buell 123.4567
+
+Record   2: George Herbert Walker Bush 555.2000
+
+Record   3: Adam Swieszek 666.7777
+
+
+
+BY NUMBER
+Record   0: Duncan A. Buell 123.4567
+
+Record   1: George Herbert Walker Bush 555.2000
+
+Record   2: Adam Swieszek 666.7777
+
+Record   3: Duncan Buell 789.0123
+
+
+
